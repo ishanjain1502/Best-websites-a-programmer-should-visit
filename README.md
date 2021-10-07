@@ -499,6 +499,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Ben Awad](https://www.youtube.com/c/BenAwad97/): Tutorials on web dev , algorithms and life of an SDE in general.
+- [Code with Harry](https://www.youtube.com/c/CodeWithHarry): Code with harry provides techniques and resources to learn how to code in various things from algorithms to language particular to web dev and AI everything.
+- [Hitesh Choudhry](https://www.youtube.com/c/HiteshChoudharydotcom/featured): Web development tutorials
+- [Codedamn](https://www.youtube.com/c/codedamn): Codedamn has a wide variety of in-depth videos for web development and cyber security.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
